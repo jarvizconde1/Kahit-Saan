@@ -6,7 +6,7 @@
 
 ## Kahit Saan
                                  
-Tired of your friends telling "Kahit Saan" if you ask them where to eat?  Kahit Saan provides a list of the nearby restaurant and café based on your location so you won’t have decision fatigue.
+Tired of your friends telling "Kahit Saan" if you ask them where to eat?  This app provides a list of the nearby restaurant and café based on your location so you won’t have decision fatigue.
 
 ## Built With
 
