@@ -1,6 +1,7 @@
 
 
-![Black and White Fun Modern Restaurant Food Logo@3x](https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/ee48119e-20a4-4b58-807a-b80572f2a7b9)
+![Black and White Fun Modern Restaurant Food Logo@3x](https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/ee48119e-20a4-4b58-807a-b80572f2a7b9)![Black and White Fun Modern Restaurant Food Logo@2x](https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/c0bb7be0-9d32-47d1-9ec9-bf630e9e0618)
+
 
 
 ## Kahit Saan
