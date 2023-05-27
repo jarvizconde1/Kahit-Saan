@@ -54,7 +54,7 @@ Tired of your friends telling "Kahit Saan" if you ask them where to eat?  This a
 <img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/dd308a71-fcc3-4e03-bd4b-7324cf9eacb5" width="250" >
 <img src="https://github.com/jarvizconde1/Kahit-Saan/assets/102355807/98997222-5751-4f32-bf39-00b31c2c2a22" width="250" >
 
-## Demo!
+## Demo
 
 
 
